@@ -2,6 +2,8 @@
     "jscodehints.detectedExclusions": [
         "/Users/alexsaladna/assignment-5-asaladna/platforms/ios/www/lib/ionic/js/ionic.js",
         "/Users/alexsaladna/assignment-5-asaladna/platforms/ios/www/js/controllers.js",
-        "/Users/alexsaladna/assignment-5-asaladna/platforms/ios/www/plugins/cordova-plugin-console/www/console-via-logger.js"
+        "/Users/alexsaladna/assignment-5-asaladna/platforms/ios/www/plugins/cordova-plugin-console/www/console-via-logger.js",
+        "/Users/alexsaladna/assignment-5-asaladna/platforms/ios/www/lib/ionic/js/ionic.min.js",
+        "/Users/alexsaladna/assignment-5-asaladna/platforms/ios/cordova/lib/configMunger.js"
     ]
 }
